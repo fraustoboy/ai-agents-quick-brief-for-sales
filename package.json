@@ -2,7 +2,7 @@
   "name": "agent-training-cheatsheet",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://USERNAME.github.io/REPO-NAME",
+  "homepage": "https://fraustoboy.github.io/ai-agents-quick-brief-for-sales",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
